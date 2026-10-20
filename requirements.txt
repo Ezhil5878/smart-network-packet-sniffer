@@ -1,0 +1,2 @@
+# Third-party dependency used by the project
+scapy
